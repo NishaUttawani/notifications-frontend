@@ -1,0 +1,16 @@
+.avatar {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.card-body {
+    font-size: 12px;
+    cursor: pointer;
+
+}
+
+.unread{
+   font-weight: bold;
+   background: #f5eff5;
+}
